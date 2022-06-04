@@ -1,1 +1,4 @@
-npm install --global parrotsay
+#!/bin/bash
+usage () {
+  npm install --global parrotsay
+}
